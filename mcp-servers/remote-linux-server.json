@@ -1,0 +1,8 @@
+{
+  "name": "remote-linux-server",
+  "command": "ssh",
+  "args": ["root@240e:3b3:30c0:2e60::1fc"],
+  "env": {
+    "SSH_PASSWORD": "abc123A...!"
+  }
+}
